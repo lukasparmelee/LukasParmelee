@@ -28,13 +28,6 @@ I am currently pursuing opportunities in IT Support, Help Desk, Desktop Support,
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jgzc7pkjtj-netizen/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jgzc7pkjtj-netizen/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Lukas | LinkedIn" width="22px" src="link.png" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/lukas-parmelee-lp1/
-
 ## Technical Skills
 
 ### Operating Systems
@@ -64,3 +57,10 @@ I am currently pursuing opportunities in IT Support, Help Desk, Desktop Support,
 ## Resume
 
 [Download My Resume](link)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Lukas | LinkedIn" width="22px" src="link.png" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/lukas-parmelee-lp1/
