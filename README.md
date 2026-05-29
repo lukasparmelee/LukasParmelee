@@ -1,4 +1,21 @@
-<h1>Hi, I'm Lukas, an <a href="https://www.linkedin.com/in/lukas-parmelee-lp1/">IT Professional</a>😁</h1>
+<h1><a href="https://www.linkedin.com/in/lukas-parmelee-lp1/">Hi, I'm Lukas Parmelee, an Information Technology Student at Florida State University</a>😁</h1>
+## About Me
+
+I am an Information Technology student at Florida State University with hands-on experience in:
+
+- Active Directory Administration
+
+- Microsoft Azure
+
+- Help Desk Ticketing Systems
+
+- Windows Server
+
+- Network Troubleshooting
+
+- Cybersecurity Fundamentals
+
+I am currently pursuing opportunities in IT Support, Help Desk, Desktop Support, and Cybersecurity.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -17,26 +34,32 @@
 
 [linkedin]: https://www.linkedin.com/in/lukas-parmelee-lp1/
 
+## Technical Skills
 
-# Hi, I'm Lukas Parmelee
+### Operating Systems
+- Windows 10
+- Windows Server
 
-Information Technology student at Florida State University focused on IT support, help desk operations, Active Directory, ticketing systems, and cybersecurity fundamentals.
+### Cloud
+- Microsoft Azure
 
-## Featured IT Projects
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- Network Security Groups
 
-### Active Directory Lab in Azure
-Built a Windows Server domain controller and Windows 10 client in Azure. Configured AD DS, DNS, OUs, domain users, RDP access, Group Policy lockout policies, and account reset/disable workflows.
-
-### osTicket Help Desk Lab
-Installed and configured osTicket on a Windows 10 Azure VM using IIS, PHP, and MySQL. Configured agents, departments, teams, SLAs, help topics, and ticket workflows.
-
-## Skills
-- Windows 10 / Windows Server
+### IT Support
 - Active Directory
-- Azure Virtual Machines
+- User Account Management
+- Ticket Management
 - Remote Desktop
-- osTicket
-- IIS
-- MySQL
-- PowerShell basics
-- Troubleshooting documentation
+
+### Security
+- Wireshark
+- Security Monitoring
+- Network Analysis
+
+## Resume
+
+[Download My Resume](link)
