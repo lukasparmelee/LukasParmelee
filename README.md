@@ -1,4 +1,5 @@
-<h1><a href="https://www.linkedin.com/in/lukas-parmelee-lp1/">Hi, I'm Lukas Parmelee, an Information Technology Student at Florida State University</a>😁</h1>
+<h1><a href="https://www.linkedin.com/in/lukas-parmelee-lp1/">Hi, I'm Lukas Parmelee, an Information Technology Student at Florida State University</a></h1>
+
 ## About Me
 
 I am an Information Technology student at Florida State University with hands-on experience in:
