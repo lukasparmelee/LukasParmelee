@@ -162,7 +162,7 @@ Florida State University
 
 Bachelor of Science in Information Technology
 
-Expected Graduation: Fall 2026
+Expected Graduation: Spring 2026
 
 ---
 
