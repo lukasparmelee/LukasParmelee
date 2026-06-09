@@ -170,6 +170,3 @@ Expected Graduation: Spring 2026
 
 LinkedIn:
 https://www.linkedin.com/in/lukas-parmelee-lp1/
-
-GitHub:
-https://github.com/lukasparmelee
