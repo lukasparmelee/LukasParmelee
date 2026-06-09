@@ -1,66 +1,175 @@
-<h1><a href="https://www.linkedin.com/in/lukas-parmelee-lp1/">Hi, I'm Lukas Parmelee, an Information Technology Student at Florida State University</a></h1>
+# Lukas Parmelee
+
+Information Technology Student | Florida State University
+
+Aspiring IT Support and Cybersecurity Professional with hands-on experience in Active Directory, Microsoft Azure, Windows Server administration, network troubleshooting, and help desk operations. Passionate about solving technical problems, supporting end users, and building practical IT skills through hands-on lab environments.
+
+---
 
 ## About Me
 
-I am an Information Technology student at Florida State University with hands-on experience in:
+I am currently pursuing a Bachelor of Science in Information Technology at Florida State University.
 
-- Active Directory Administration
+Through cloud-based lab environments and self-directed technical projects, I have gained practical experience configuring Active Directory environments, troubleshooting Windows systems, managing user accounts, supporting help desk operations, and working with enterprise technologies commonly used in IT support environments.
+
+I am actively seeking opportunities in:
+
+- IT Support
+- Help Desk
+- Desktop Support
+- Technical Support
+- Junior Systems Administration
+
+My long-term goal is to build a career in cybersecurity and enterprise IT operations.
+
+---
+
+## Featured IT Projects
+
+### Active Directory Deployment & Administration Lab
+
+Built and configured an enterprise-style Active Directory environment in Microsoft Azure using Windows Server and Windows 10 virtual machines.
+
+#### Technologies Used
 
 - Microsoft Azure
+- Windows Server 2022
+- Active Directory Domain Services
+- Remote Desktop
+- PowerShell
 
-- Help Desk Ticketing Systems
+#### Key Concepts Covered
 
+- User and Group Management
+- Organizational Units
+- Group Policy Configuration
+- Domain Administration
+- Account Management
+- Remote Administration
+
+Project Repository
+
+- Configure On-Premises Active Directory within Azure VMs
+
+---
+
+### osTicket Help Desk Ticketing System
+
+Deployed and configured a professional help desk ticketing platform to simulate real-world IT support operations and ticket management workflows.
+
+#### Technologies Used
+
+- osTicket
 - Windows Server
+- IIS
+- MySQL
+- PHP
 
-- Network Troubleshooting
+#### Key Concepts Covered
 
-- Cybersecurity Fundamentals
+- Ticket Lifecycle Management
+- User Support Workflows
+- Role-Based Access Control
+- SLA Management
+- Troubleshooting Processes
 
-I am currently pursuing opportunities in IT Support, Help Desk, Desktop Support, and Cybersecurity.
+Project Repositories
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+- osTicket: Prerequisites and Installation
+- osTicket: Post-Installation Configuration
+- osTicket: Ticket Lifecycle Examples
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jgzc7pkjtj-netizen/osTicket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jgzc7pkjtj-netizen/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jgzc7pkjtj-netizen/Ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jgzc7pkjtj-netizen/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jgzc7pkjtj-netizen/azure-network-protocols)
+---
+
+### Azure Networking & Security Lab
+
+Configured and analyzed network traffic using Azure virtual machines, network security groups, and network monitoring tools.
+
+#### Technologies Used
+
+- Microsoft Azure
+- Wireshark
+- Network Security Groups
+- Windows Virtual Machines
+
+#### Key Concepts Covered
+
+- TCP/IP Networking
+- DNS
+- DHCP
+- Network Traffic Analysis
+- Network Security Configuration
+- Connectivity Troubleshooting
+
+Project Repository
+
+- Network Security Groups (NSGs) and Inspecting Network Protocols
+
+---
 
 ## Technical Skills
 
 ### Operating Systems
-- Windows 10
-- Windows Server
 
-### Cloud
+- Windows 10
+- Windows 11
+- Windows Server 2022
+
+### Cloud Platforms
+
 - Microsoft Azure
 
+### Systems Administration
+
+- Active Directory
+- User and Group Management
+- Organizational Units
+- Group Policy
+- Remote Desktop Services
+
 ### Networking
+
 - TCP/IP
 - DNS
 - DHCP
 - Network Security Groups
+- Network Troubleshooting
 
-### IT Support
-- Active Directory
-- User Account Management
+### Help Desk & Technical Support
+
+- osTicket
 - Ticket Management
-- Remote Desktop
+- End User Support
+- Troubleshooting Methodology
+- Remote Support
 
-### Security
+### Security Tools
+
 - Wireshark
-- Security Monitoring
+- Windows Event Viewer
 - Network Analysis
 
-## Resume
+### Scripting
 
-[Download My Resume](link)
+- PowerShell
+- Bash
 
-<h2>🤳Connect with me:</h2>
+---
 
-[<img align="left" alt="Lukas | LinkedIn" width="22px" src="link.png" />][linkedin]
+## Education
 
+Florida State University
 
-[linkedin]: https://www.linkedin.com/in/lukas-parmelee-lp1/
+Bachelor of Science in Information Technology
+
+Expected Graduation: Fall 2026
+
+---
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/lukas-parmelee-lp1/
+
+GitHub:
+https://github.com/lukasparmelee
