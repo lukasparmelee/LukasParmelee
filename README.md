@@ -63,48 +63,7 @@ Created Azure virtual machines and analyzed network traffic to better understand
 
 [View the Azure networking project](https://github.com/lukasparmelee/azure-network-protocols)
 
-## Technical Skills
 
-**Systems and Administration**
-
-- Windows 10 and Windows Server
-- Active Directory Domain Services
-- User and account administration
-- Group Policy fundamentals
-- Remote Desktop
-
-**Cloud and Networking**
-
-- Microsoft Azure virtual machines
-- Network Security Groups
-- TCP/IP and common network protocols
-- Wireshark
-- Linux fundamentals
-
-**Support and Applications**
-
-- Hardware and software troubleshooting
-- Ticket documentation and lifecycle management
-- osTicket
-- IIS
-- MySQL
-- PHP configuration
-
-**Scripting and Development**
-
-- PowerShell fundamentals
-- Bash fundamentals
-- Java
-- SQL
-- Git and GitHub
-
-## Currently Developing
-
-- IT support and troubleshooting skills
-- Cybersecurity and digital-forensics fundamentals
-- PowerShell and administrative automation
-- Small-business cybersecurity assessment practices
-
-## Connect With Me
+## Connect With Me 
 
 [LinkedIn](https://www.linkedin.com/in/lukas-parmelee/)
