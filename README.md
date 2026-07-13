@@ -1,187 +1,110 @@
-# Hi, I'm Lukas 👋
+# Hi, I'm Lukas Parmelee
 
-I'm an Information Technology student at Florida State University with an interest in IT support, Windows administration, networking, and cloud technologies.
+I’m an Information Technology student at Florida State University building hands-on experience in IT support, Windows administration, cloud infrastructure, networking, and cybersecurity.
 
-Outside of class, I like building hands-on labs to better understand how the technologies used in real IT environments work. Most of my projects focus on Microsoft Azure, Active Directory, Windows Server, networking, and troubleshooting because I learn best by building things myself.
+My current goal is to begin my career in an IT support or help desk position where I can apply my troubleshooting skills while continuing to develop toward cybersecurity and digital forensics.
 
-I'm currently looking for an entry-level IT Support or Help Desk position where I can continue learning while gaining real-world experience.
+## Featured IT Projects
 
----
+### Active Directory Deployment and Administration Lab
 
-## Featured Projects
+Built a Windows domain environment in Microsoft Azure using Windows Server and Windows client virtual machines.
 
-### Active Directory Deployment & Administration
+**What I worked on:**
 
-Built an Active Directory lab in Microsoft Azure using Windows Server and Windows client virtual machines.
+- Deployed and configured a Windows Server domain controller
+- Installed Active Directory Domain Services
+- Created organizational units, users, and administrative accounts
+- Joined Windows client computers to the domain
+- Configured account lockout policies through Group Policy
+- Practiced password resets, account disabling, and user-access troubleshooting
 
-In this project I practiced:
+**Technologies:** Microsoft Azure, Windows Server, Active Directory, DNS, Group Policy, Remote Desktop
 
-- Promoting a Windows Server to a Domain Controller
-- Creating users and Organizational Units
-- Joining client computers to a domain
-- Configuring Group Policy settings
-- Managing user accounts and permissions
-- Troubleshooting common Active Directory issues
-
-**Technologies:** Microsoft Azure • Windows Server • Active Directory • Group Policy • DNS • Remote Desktop
-
-#### Project Repository
-
-- [Configuring On-Premises Active Directory within Azure VMs](https://github.com/lukasparmelee/configure-ad.git)
-
+[View the Active Directory project](https://github.com/lukasparmelee/configure-ad)
 
 ---
 
 ### osTicket Help Desk Lab
 
-Installed and configured osTicket in Microsoft Azure to simulate a real help desk environment.
+Deployed and configured an osTicket help desk environment on a Windows virtual machine to practice common support and ticket-management workflows.
 
-This project helped me learn how support teams organize and manage requests from beginning to end.
+**What I worked on:**
 
-Some of the tasks I completed include:
+- Configured IIS, PHP, and MySQL to support the application
+- Installed and deployed osTicket
+- Created agents, departments, teams, roles, and help topics
+- Configured service-level agreements and ticket-routing rules
+- Practiced ticket intake, assignment, escalation, communication, and resolution
+- Documented the installation and administration process with screenshots
 
-- Installing IIS, PHP, and MySQL
-- Deploying osTicket
-- Configuring departments, teams, agents, and roles
-- Creating SLA plans and help topics
-- Practicing ticket assignment and escalation
-- Working through common support scenarios
+**Technologies:** osTicket, Windows 10, Microsoft Azure, IIS, PHP, MySQL, Remote Desktop
 
-**Technologies:** Microsoft Azure • Windows 10 • IIS • PHP • MySQL • osTicket
-
-#### Project Repositories
-
-- [osTicket: Prerequisites and Installation](https://github.com/lukasparmelee/osTicket-prereqs.git)
-- [osTicket: Post-Installation Configuration]([YOUR-LINK](https://github.com/lukasparmelee/post-install-config.git))
-- [osTicket: Ticket Lifecycle Examples](https://github.com/lukasparmelee/Ticket-lifecycle.git)
+- [Installation and prerequisites](https://github.com/lukasparmelee/osTicket-prereqs)
+- [Post-installation configuration](https://github.com/lukasparmelee/osTicket-Post-Install-Config)
+- [Ticket lifecycle examples](https://github.com/lukasparmelee/ticket-lifecycle)
 
 ---
 
-### Azure Networking Lab
+### Azure Networking and Network Security Lab
 
-Built a small Azure networking lab to better understand how computers communicate across a network.
+Created Azure virtual machines and analyzed network traffic to better understand common protocols, firewall rules, and connectivity troubleshooting.
 
-During this project I:
+**What I worked on:**
 
-- Created Windows and Linux virtual machines
-- Configured virtual networks
-- Worked with Network Security Groups
-- Used Wireshark to capture network traffic
-- Observed protocols including ICMP, SSH, DNS, DHCP, and RDP
-- Practiced troubleshooting connectivity issues
+- Created Windows and Linux virtual machines in Microsoft Azure
+- Configured virtual networks and Network Security Groups
+- Captured and analyzed traffic using Wireshark
+- Examined ICMP, SSH, DNS, DHCP, and RDP traffic
+- Modified inbound security rules and observed changes in connectivity
+- Practiced troubleshooting communication between networked systems
 
-**Technologies:** Microsoft Azure • Wireshark • Windows • Linux • TCP/IP
+**Technologies:** Microsoft Azure, Wireshark, Network Security Groups, Windows, Linux, TCP/IP
 
-#### Project Repository
-
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lukasparmelee/azure-network-protocols.git)
-
----
+[View the Azure networking project](https://github.com/lukasparmelee/azure-network-protocols)
 
 ## Technical Skills
 
-**Operating Systems**
+**Systems and Administration**
 
-- Windows 10 / 11
-- Windows Server
-- Linux
-
-**Cloud**
-
-- Microsoft Azure
-- Azure Virtual Machines
+- Windows 10 and Windows Server
+- Active Directory Domain Services
+- User and account administration
+- Group Policy fundamentals
 - Remote Desktop
 
-**Networking**
+**Cloud and Networking**
 
-- TCP/IP
-- DNS
-- DHCP
+- Microsoft Azure virtual machines
 - Network Security Groups
+- TCP/IP and common network protocols
 - Wireshark
+- Linux fundamentals
 
-**Systems Administration**
+**Support and Applications**
 
-- Active Directory
-- Group Policy
-- User & Computer Management
-
-**Tools**
-
-- Git & GitHub
-- Visual Studio Code
-- MySQL
+- Hardware and software troubleshooting
+- Ticket documentation and lifecycle management
 - osTicket
+- IIS
+- MySQL
+- PHP configuration
 
----
+**Scripting and Development**
 
-## Currently Learning
+- PowerShell fundamentals
+- Bash fundamentals
+- Java
+- SQL
+- Git and GitHub
 
-- PowerShell
-- Windows Administration
-- Networking
-- Microsoft 365
-- Cybersecurity fundamentals
+## Currently Developing
 
----
+- IT support and troubleshooting skills
+- Cybersecurity and digital-forensics fundamentals
+- PowerShell and administrative automation
+- Small-business cybersecurity assessment practices
 
-Thanks for stopping by! Feel free to check out my repositories to see the projects I've been working on.
+## Connect With Me
 
-
-
-
-
-
-
-
-
-
-Hi, I’m Lukas.
-
-I’m studying Information Technology at Florida State University.
-
-I started building home labs because I wanted more experience outside of class. Most of my projects are things I built to understand Windows administration, networking, cloud services, and how IT support actually works.
-
-I’m currently looking for my first IT support or help desk role where I can continue learning while gaining real-world experience.
-
----
-
-## Featured IT Projects
-
-### Active Directory Deployment & Administration Lab
-
-Built and configured an enterprise-style Active Directory environment in Microsoft Azure using Windows Server and Windows 10 virtual machines.
-
-#### In this project I learned how to:
-
-- Set up Windows domain controller
-- Created user and orginizational units in Active Directory
-- Join Windows clients to a domain
-- Configure group policy settings
-- Troubleshoot common login and networking issues
-
-#### Project Repository
-
-- [Configuring On-Premises Active Directory within Azure VMs](https://github.com/lukasparmelee/configure-ad.git)
-
----
-
-### osTicket Help Desk Ticketing System
-
-Deployed and configured a professional help desk ticketing platform to simulate real-world IT support operations.
-
-#### Project Repositories
-
-- [osTicket: Prerequisites and Installation](https://github.com/lukasparmelee/osTicket-prereqs.git)
-- [osTicket: Post-Installation Configuration]([YOUR-LINK](https://github.com/lukasparmelee/post-install-config.git))
-- [osTicket: Ticket Lifecycle Examples](https://github.com/lukasparmelee/Ticket-lifecycle.git)
-
----
-
-### Azure Networking & Security Lab
-
-Configured and analyzed network traffic using Azure virtual machines and Network Security Groups.
-
-#### Project Repository
-
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lukasparmelee/azure-network-protocols.git)
+[LinkedIn](https://www.linkedin.com/in/lukas-parmelee/)
