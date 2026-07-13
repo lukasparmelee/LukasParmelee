@@ -2,7 +2,7 @@
 
 I’m an Information Technology student at Florida State University building hands-on experience in IT support, Windows administration, cloud infrastructure, networking, and cybersecurity.
 
-My current goal is to begin my career in an IT support or help desk position where I can apply my troubleshooting skills while continuing to develop toward cybersecurity and digital forensics.
+I’m currently looking for an entry-level IT Support or Help Desk position where I can continue learning while helping solve real technical problems. Long term, I’m interested in growing into cybersecurity and digital forensics.
 
 ## Featured IT Projects
 
