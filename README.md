@@ -41,7 +41,7 @@ Deployed and configured an osTicket help desk environment on a Windows virtual m
 **Technologies:** osTicket, Windows 10, Microsoft Azure, IIS, PHP, MySQL, Remote Desktop
 
 - [Installation and prerequisites](https://github.com/lukasparmelee/osTicket-prereqs)
-- [Post-installation configuration](https://github.com/lukasparmelee/osTicket-Post-Install-Config)
+- [Post-installation configuration](https://github.com/lukasparmelee/post-install-config)
 - [Ticket lifecycle examples](https://github.com/lukasparmelee/ticket-lifecycle)
 
 ---
